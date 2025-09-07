@@ -1,6 +1,6 @@
 # 🛍️ SHOP KART – Full Stack MERN E-Commerce Platform
-Demo Login Account : hulk@gmail.com  
-           password : hulk12
+Demo Login Account : demo@gmail.com  
+           password : demo123
 
 SHOP KART is a fully functional E-Commerce application built using the MERN stack. It provides core e-commerce features like user authentication, product listings, dynamic filters, cart management, Stripe payment integration, and an admin dashboard to manage users and products.
 
@@ -53,3 +53,4 @@ SHOP KART is designed to deliver a seamless shopping experience for users and pr
 | Filter Products | Stripe Payment | Search |
 |-----------------|---------------|--------|
 | ![Filter](https://github.com/user-attachments/assets/b8aa0658-edfe-41de-a695-3d711f83f6a9) | ![Stripe](https://github.com/user-attachments/assets/d9a4a4b0-4363-4e87-9e62-b54543e4156c) | ![Orders](https://github.com/user-attachments/assets/6d4d66d1-baca-44ad-8cf1-fe5d02345b3f) |
+
