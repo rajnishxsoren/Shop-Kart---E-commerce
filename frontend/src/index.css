@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    @apply font-poppins;
+    background-color: rgb(219, 215, 215);
+    padding-top: 1px;
+}
+
+
+.scrollbar-none::-webkit-scrollbar{
+    display: none;
+}

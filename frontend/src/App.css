@@ -1,0 +1,7 @@
+.tableCss{
+    @apply bg-red-400
+}
+
+.scrollbar-none::-webkit-scrollbar{
+    display: none;
+}
